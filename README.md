@@ -9,15 +9,15 @@ To install and run the Rust Chat GPT Project, follow these steps:
 ```
 git clone https://github.com/Mushroom-Wang/IDS721-PJ2-Final
 ```
-1. Change into the project directory
+2. Change into the project directory
 ```
 cd chatgpt
 ```
-1. Set the `OAI_TOKEN` environment variable in `.env`
+3. Set the `OAI_TOKEN` environment variable in `.env`
 ```
 OAI_TOKEN = <your_api_key>
 ```
-1. Run the project
+4. Run the project
 ```
 cargo run
 ```
